@@ -1,2 +1,2 @@
 # temario-ed-dam
-Temario de la asignatura de Entornos de Desarrollo, de 1º de CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)
+Temario del módulo profesional de Entornos de Desarrollo, de 1º curso de DAM (Desarrollo de Aplicaciones Multiplataforma)
